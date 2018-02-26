@@ -10,7 +10,9 @@
   "author": "Belen Fernandez",
   "license": "ISC",
   "dependencies": {
+    "body": "^5.1.0",
     "express": "^4.16.2",
-    "morgan": "^1.9.0"
+    "morgan": "^1.9.0",
+    "parser": "^0.1.4"
   }
 }
